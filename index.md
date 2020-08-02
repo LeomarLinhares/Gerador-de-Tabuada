@@ -1,1 +1,1 @@
-Gerador de Tabuada/index.html
+Gerador-de-Tabuada/index.html
